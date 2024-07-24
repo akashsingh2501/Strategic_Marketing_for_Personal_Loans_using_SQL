@@ -1,0 +1,2 @@
+# Strategic_Marketing_for_Personal_Loans_using_SQL
+Strategic_Marketing_for_Personal_Loans_using_Python_and_SQL.
